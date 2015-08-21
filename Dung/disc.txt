@@ -1,0 +1,34 @@
+Mass properties of Disc1
+     Configuration: Default
+     Coordinate system: -- default --
+
+Density = 1250.00000000 kilograms per cubic meter
+
+Mass = 0.10567613 kilograms
+
+Volume = 0.00008454 cubic meters
+
+Surface area = 0.01351509 square meters
+
+Center of mass: ( meters )
+	X = -0.00000455
+	Y = -0.00197468
+	Z = 0.01285947
+
+Principal axes of inertia and principal moments of inertia: ( kilograms * square meters )
+Taken at the center of mass.
+	 Ix = (0.00324265, 0.99979223, 0.02012404)   	Px = 0.00003368
+	 Iy = (-0.99999474, 0.00324277, 0.00002650)   	Py = 0.00004214
+	 Iz = (-0.00003876, -0.02012402, 0.99979749)   	Pz = 0.00006334
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 0.00004214	Lxy = 0.00000003	Lxz = 0.00000000
+	Lyx = 0.00000003	Lyy = 0.00003369	Lyz = 0.00000060
+	Lzx = 0.00000000	Lzy = 0.00000060	Lzz = 0.00006333
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system.
+	Ixx = 0.00006003	Ixy = 0.00000003	Ixz = 0.00000000
+	Iyx = 0.00000003	Iyy = 0.00005117	Iyz = -0.00000209
+	Izx = 0.00000000	Izy = -0.00000209	Izz = 0.00006374
